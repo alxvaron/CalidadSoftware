@@ -147,7 +147,7 @@
    ]
   },
   {
-   "name": "segmentos de calidad",
+   "name": "sistema de calidad",
    "children": [
     {"name": "Operación del produto", "value": 2105},
     {"name": "Transición del producto", "value": 1316},

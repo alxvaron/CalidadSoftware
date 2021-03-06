@@ -252,79 +252,30 @@
      ]
     },
     {
-     "name": "legend",
+     "name": "Modelos de calidad ",
      "children": [
-      {"name": "Legend", "value": 20859},
-      {"name": "LegendItem", "value": 4614},
-      {"name": "LegendRange", "value": 10530}
+      {"name": "Adecuación", "value": 593},
+      {"name": "Exactitud", "value": 330},
+      {"name": "Interoperabilidad", "value": 287},
+      {"name": "Conformidad", "value": 277},
+      {"name": "Seguridad", "value": 292},
+      {"name": "Madurez", "value": 595},
+      {"name": "Tolerancia a fallos", "value": 594},
+      {"name": "Recuperabilidad", "value": 460},
+      {"name": "Comportamiento temporal", "value": 603},
+      {"name": "Uso de recursos", "value": 625},
+      {"name": "Comprensibilidad", "value": 748},
+      {"name": "Operabilidad", "value": 461},
+      {"name": "Accesibilidad", "value": 597},
+      {"name": "Atractividad", "value": 619},
+      {"name": "Mantenibilidad", "value": 283},
+      {"name": "Camiabilidad", "value": 283},
+      {"name": "Estabilidad", "value": 591},
+      {"name": "Reemplazabilidad", "value": 603},
+      {"name": "Adaptabilidad", "value": 599},
+      {"name": "Co-existencia", "value": 386}
      ]
-    },
-    {
-     "name": "Modelos de calidad",
-     "children": [
-      {
-       "name": "distortion",
-       "children": [
-        {"name": "BifocalDistortion", "value": 4461},
-        {"name": "Distortion", "value": 6314},
-        {"name": "FisheyeDistortion", "value": 3444}
-       ]
-      },
-      {
-       "name": "encoder",
-       "children": [
-        {"name": "ColorEncoder", "value": 3179},
-        {"name": "Encoder", "value": 4060},
-        {"name": "PropertyEncoder", "value": 4138},
-        {"name": "ShapeEncoder", "value": 1690},
-        {"name": "SizeEncoder", "value": 1830}
-       ]
-      },
-      {
-       "name": "filter",
-       "children": [
-        {"name": "FisheyeTreeFilter", "value": 5219},
-        {"name": "GraphDistanceFilter", "value": 3165},
-        {"name": "VisibilityFilter", "value": 3509}
-       ]
-      },
-      {"name": "IOperator", "value": 1286},
-      {
-       "name": "label",
-       "children": [
-        {"name": "Labeler", "value": 9956},
-        {"name": "RadialLabeler", "value": 3899},
-        {"name": "StackedAreaLabeler", "value": 3202}
-       ]
-      },
-      {
-       "name": "layout",
-       "children": [
-        {"name": "AxisLayout", "value": 6725},
-        {"name": "BundledEdgeRouter", "value": 3727},
-        {"name": "CircleLayout", "value": 9317},
-        {"name": "CirclePackingLayout", "value": 12003},
-        {"name": "DendrogramLayout", "value": 4853},
-        {"name": "ForceDirectedLayout", "value": 8411},
-        {"name": "IcicleTreeLayout", "value": 4864},
-        {"name": "IndentedTreeLayout", "value": 3174},
-        {"name": "Layout", "value": 7881},
-        {"name": "NodeLinkTreeLayout", "value": 12870},
-        {"name": "PieLayout", "value": 2728},
-        {"name": "RadialTreeLayout", "value": 12348},
-        {"name": "RandomLayout", "value": 870},
-        {"name": "StackedAreaLayout", "value": 9121},
-        {"name": "TreeMapLayout", "value": 9191}
-       ]
-      },
-      {"name": "Operator", "value": 2490},
-      {"name": "OperatorList", "value": 5248},
-      {"name": "OperatorSequence", "value": 4190},
-      {"name": "OperatorSwitch", "value": 2581},
-      {"name": "SortOperator", "value": 2023}
-     ]
-    },
-    {"name": "Visualization", "value": 16540}
+    }
    ]
   }
  ]

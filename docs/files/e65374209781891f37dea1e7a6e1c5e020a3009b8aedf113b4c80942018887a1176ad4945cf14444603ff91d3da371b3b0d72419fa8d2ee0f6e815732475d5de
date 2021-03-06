@@ -1,0 +1,282 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "Metodologías",
+   "children": [
+    {
+     "name": "Agiles",
+     "children": [
+      {"name": "scrum", "value": 3938},
+      {"name": "kanban", "value": 3812},
+      {"name": "XP", "value": 6714},
+      {"name": "Manifiesto Ágil", "value": 743}
+     ]
+    },
+    {
+     "name": "tradicionales",
+     "children": [
+      {"name": "RUP", "value": 3534},
+      {"name": "V", "value": 5731},
+      {"name": "Cascada", "value": 7840},
+      {"name": "Iterativa", "value": 5914},
+      {"name": "SpanningTree", "value": 3416}
+     ]
+    },
+    {
+     "name": "Mixtas",
+     "children": [
+      {"name": "Lean", "value": 7074}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "cultura organizacional",
+   "children": [
+    {"name": "adaptabilidad", "value": 17010},
+    {"name": "resiliencia", "value": 5842},
+    {
+     "name": "Calidad: aspecto transversal",
+     "children": [
+      {"name": "Respecto al proceso", "value": 1983},
+      {"name": "Respecto al producto", "value": 2047},
+      {"name": "Contextual", "value": 1375},
+      {"name": "Concensuada", "value": 8746},
+      {"name": "Minimos no negociables", "value": 2202},
+      {"name": "Mejora continua", "value": 1382},
+      {"name": "viabilidad del software", "value": 1629}
+     ]
+    },
+    {"name": "Sinergías", "value": 1041},
+    {"name": "Entropía", "value": 5176},
+    {"name": "DevOps", "value": 449},
+    {"name": "Pertenencia", "value": 5593},
+    {"name": "Transición", "value": 9201},
+    {"name": "Área QA: No es la solución", "value": 19975},
+    {"name": "TransitionEvent", "value": 1116},
+    {"name": "Flexible a cambios", "value": 6006}
+   ]
+  },
+  {
+   "name": "normas",
+   "children": [
+    {
+     "name": "ISO - 25000",
+     "children": [
+      {"name": "Calidad Interna", "value": 721},
+      {"name": "Calidad Externa", "value": 4294},
+      {"name": "Fiabilidad", "value": 9800},
+      {"name": "Eficiencia", "value": 1314},
+      {"name": "Usabilidad", "value": 2220}
+     ]
+    },
+    {"name": "CMMI", "value": 1759},
+    {"name": "PSP", "value": 2165},
+    {"name": "PSP-TSP", "value": 586},
+    {"name": "SPICE", "value": 3331},
+    {"name": "Moprosoft", "value": 772}
+   ]
+  },
+  {
+   "name": "producto final",
+   "children": [
+    {"name": "Cumple requerimientos", "value": 8833},
+    {"name": "Cubre expectativas", "value": 1732},
+    {"name": "Alcanza métricas", "value": 3623},
+    {"name": "Cubre criterios de calidad", "value": 10066}
+   ]
+  },
+  {
+   "name": "Adaptabilidad",
+   "children": [
+    {"name": "Mantenimiento", "value": 4116}
+   ]
+  },
+  {
+   "name": "criterios de calidad",
+   "children": [
+    {"name": "Calidad funcional", "value": 1082},
+    {"name": "Calidad estructural", "value": 1336},
+    {"name": "Funcionalidas", "value": 319},
+    {"name": "Confiabilidad", "value": 10498},
+    {"name": "Usabilidad", "value": 2822},
+    {"name": "Eficiencia", "value": 9983},
+    {"name": "Portabilidad", "value": 2213},
+    {"name": "Mantenimiento", "value": 1681}
+   ]
+  },
+  {
+   "name": "modelos",
+   "children": [
+    {"name": "Modelo McCall", "value": 1616},
+    {"name": "Modelo de Boehm", "value": 1027},
+    {"name": "Modelo15504", "value": 3891},
+    {"name": "Modelo de capacidades CMM", "value": 891},
+    {"name": "Modelo SQM", "value": 2893},
+    {"name": "ISO 9126", "value": 5103},
+    {"name": "ISO 14598", "value": 3677},
+    {"name": "ISO 15504 SPICE", "value": 781},
+    {"name": "CMM", "value": 4141},
+    {
+     "name": "Modelos de calidad de producto",
+     "children": [
+      {"name": "Adecuación", "value": 593},
+      {"name": "Exactitud", "value": 330},
+      {"name": "Interoperabilidad", "value": 287},
+      {"name": "Conformidad", "value": 277},
+      {"name": "Seguridad", "value": 292},
+      {"name": "Madurez", "value": 595},
+      {"name": "Tolerancia a fallos", "value": 594},
+      {"name": "Recuperabilidad", "value": 460},
+      {"name": "Comportamiento temporal", "value": 603},
+      {"name": "Uso de recursos", "value": 625},
+      {"name": "Comprensibilidad", "value": 748},
+      {"name": "Operabilidad", "value": 461},
+      {"name": "Accesibilidad", "value": 597},
+      {"name": "Atractividad", "value": 619},
+      {"name": "Mantenibilidad", "value": 283},
+      {"name": "Camiabilidad", "value": 283},
+      {"name": "Estabilidad", "value": 591},
+      {"name": "Reemplazabilidad", "value": 603},
+      {"name": "Adaptabilidad", "value": 599},
+      {"name": "Co-existencia", "value": 386}
+     ]
+    },
+    {"name": "Modelos de calidad de proceso", "value": 843}
+   ]
+  },
+  {
+   "name": "sistema de calidad",
+   "children": [
+    {"name": "Operación del produto", "value": 2105},
+    {"name": "Transición del producto", "value": 1316},
+    {"name": "Revisión del producto", "value": 3151},
+    {"name": "Criterios de calidad", "value": 3770},
+    {"name": "Factores de calidad", "value": 2435},
+    {"name": "Métricas de calidad", "value": 4839},
+    {"name": "Calidad de proceso", "value": 1756},
+    {"name": "Calidad de producto", "value": 4268}
+   ]
+  },
+  {
+   "name": "tiempo: razón principal",
+   "children": [
+    {"name": "Estimación proyecto", "value": 8258},
+    {"name": "Necesidad cliente", "value": 10001},
+    {"name": "Entregables", "value": 8217},
+    {"name": "Costo/beneficio criterios de calidad", "value": 12555},
+    {"name": "Agilismo", "value": 2324},
+    {"name": "Metodologías", "value": 10993},
+    {
+     "name": "calidad",
+     "children": [
+      {"name": "Eficiencia/desempeño", "value": 9354},
+      {"name": "Fiabilidad/seguridad", "value": 1233}
+     ]
+    },
+    {
+     "name": "Pruebas",
+     "children": [
+      {"name": "Pruebas estáticas", "value": 3165},
+      {"name": "Pruebas de aceptación", "value": 2815},
+      {"name": "Pruebas de integración", "value": 3366}
+     ]
+    },
+    {
+     "name": "viabilidad del sw",
+     "children": [
+      {"name": "Calidad Contextual", "value": 6367},
+      {"name": "Calidad Concensuada", "value": 1229},
+      {"name": "Minimos no negociables", "value": 2059},
+      {"name": "Calidad producto/proceso", "value": 2291}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "respecto al poducto de software",
+   "children": [
+    {
+     "name": "Adecuación funcional",
+     "children": [
+      {"name": "Completitud funcional", "value": 1302},
+      {"name": "Corrección funcional", "value": 24593},
+      {"name": "Pertinencia funcional", "value": 652}
+     ]
+    },
+    {
+     "name": "Eficiencia/Desempeño",
+     "children": [
+      {"name": "Comportamiento temporal", "value": 2138},
+      {"name": "Uso de recursos", "value": 3824},
+      {"name": "Capacidad", "value": 1353},
+      {"name": "Inteligibilidad", "value": 4665},
+      {"name": "Aprendizaje", "value": 2649},
+      {"name": "Operabilidad", "value": 2832},
+      {"name": "Tolerancia a fallos", "value": 4896},
+      {"name": "Accesibilidad", "value": 763},
+      {"name": "PanZoomControl", "value": 5222},
+      {"name": "Agilidad", "value": 7862}
+     ]
+    },
+    {
+     "name": "Fiabilidad",
+     "children": [
+      {"name": "Madurez", "value": 20544},
+      {"name": "Disponibilidad", "value": 19788},
+      {"name": "Capacidad", "value": 10349},
+      {"name": "Recueración", "value": 3301},
+      {"name": "Tolerancia a fallos", "value": 19382},
+      {
+       "name": "Seguridad",
+       "children": [
+        {"name": "Confidencialidad", "value": 698},
+        {"name": "Integridad", "value": 5569},
+        {"name": "No repudio", "value": 353},
+        {"name": "Autenticidad", "value": 2247}
+       ]
+      },
+      {"name": "ScaleBinding", "value": 11275},
+      {"name": "Tree", "value": 7147},
+      {"name": "TreeBuilder", "value": 9930}
+     ]
+    },
+    {
+       "name": "Seguridad",
+       "children": [
+        {"name": "Confidencialidad", "value": 698},
+        {"name": "Integridad", "value": 5569},
+        {"name": "No repudio", "value": 353},
+        {"name": "Autenticidad", "value": 2247}
+     ]
+    },
+    {
+     "name": "Modelos de calidad ",
+     "children": [
+      {"name": "Adecuación", "value": 593},
+      {"name": "Exactitud", "value": 330},
+      {"name": "Interoperabilidad", "value": 287},
+      {"name": "Conformidad", "value": 277},
+      {"name": "Seguridad", "value": 292},
+      {"name": "Madurez", "value": 595},
+      {"name": "Tolerancia a fallos", "value": 594},
+      {"name": "Recuperabilidad", "value": 460},
+      {"name": "Comportamiento temporal", "value": 603},
+      {"name": "Uso de recursos", "value": 625},
+      {"name": "Comprensibilidad", "value": 748},
+      {"name": "Operabilidad", "value": 461},
+      {"name": "Accesibilidad", "value": 597},
+      {"name": "Atractividad", "value": 619},
+      {"name": "Mantenibilidad", "value": 283},
+      {"name": "Camiabilidad", "value": 283},
+      {"name": "Estabilidad", "value": 591},
+      {"name": "Reemplazabilidad", "value": 603},
+      {"name": "Adaptabilidad", "value": 599},
+      {"name": "Co-existencia", "value": 386}
+     ]
+    }
+   ]
+  }
+ ]
+}
